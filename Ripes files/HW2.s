@@ -2,6 +2,7 @@
 A: .word 0,1,2,3,4,5
 B: .word 0,0,0,0,0,0
 .text
+
 li x5, 6
 li x6, 2
 la x10, A
